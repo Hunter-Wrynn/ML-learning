@@ -1,6 +1,7 @@
-这是我们课后的一个实验项目，具体是利用线性回归拟合音乐流行度  
-具体代码主要参考了kaggle网站上的BEST-ML-MODEL// https://www.kaggle.com/code/yasserh/song-popularity-prediction-best-ml-models  
-以及班上的王嘉然同学@Kami-chanw可以参考他的代码库  
-在本项目中我将从头零基础分析这个项目的实现  
-本项目要求在docx中，数据集为csv文件  
+利用线性回归拟合音乐流行度  
+参考 kaggle BEST-ML-MODEL// https://www.kaggle.com/code/yasserh/song-popularity-prediction-best-ml-models  
+以及@Kami-chanw 
+分析项目实现  
+要求docx
+数据集csv  
 
