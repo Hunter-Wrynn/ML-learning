@@ -1,2 +1,2 @@
 # ML-learning
-SEU人工智能学院菜鸟的机器学习之路
+A notebook for fresh new ML learner
